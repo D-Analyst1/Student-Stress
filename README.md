@@ -134,3 +134,11 @@ A **heatmap** was generated to check how different numerical factors interact.
 - Jupyter Notebook  
 
 ---
+
+
+![image](https://github.com/user-attachments/assets/56f6722a-2ca2-4415-b79a-b8fdd6f99635)
+
+
+For any collaborative work or gigs, reach out to me at:
+
+📧 Email: Bosschuks97@gmail.com  📞: 07064106675
